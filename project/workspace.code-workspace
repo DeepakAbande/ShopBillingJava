@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "billproject",
+				"database": "project",
+				"username": "root",
+				"password": ""
+			}
+		],
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\DEEPAK S ABANDE\\OneDrive\\Desktop\\mysql-connector-java-8.0.25.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx.swing.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx.web.jar",
+			"c:\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar"
+		]
+	}
+}
